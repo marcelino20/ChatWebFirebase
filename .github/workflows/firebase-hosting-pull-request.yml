@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CHATWEB_95523 }}'
-          projectId: chatweb-95523
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_CE130 }}'
+          projectId: github-ce130
