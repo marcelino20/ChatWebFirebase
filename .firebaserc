@@ -1,8 +1,8 @@
 {
   "projects": {
     "default": "github-ce130",
-    "staging": "chatweb-95523",
-    "testing": "github-ce130"
+    "staging": "github-ce130",
+    "testing": "testing-6f046"
   },
   "targets": {},
   "etags": {}
